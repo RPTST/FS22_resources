@@ -70,3 +70,7 @@ Farming Simulator Modding For Dummies
 
 No mods with fantacy brands, this includes decals and stickers, must use Lizard Motors, Lizard Logistics, etc..
 
+
+<h1><b>FS22 Bugs report:</b></h1>
+
+https://www.reddit.com/r/farmingsimulator/comments/qxn7ys/megathread_fs22_launch_known_issues_tutorial_bug/
